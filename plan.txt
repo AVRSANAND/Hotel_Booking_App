@@ -1,0 +1,10 @@
+Feature's of App -
+
+User can see a list of hotels
+User can book a hotel
+User can get a reservation ticket of conformation
+
+Classes: (Noun Words)
+User
+Hotel
+ReservationTicket
