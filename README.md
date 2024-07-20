@@ -6,6 +6,7 @@ This Python project allows users to see a list of hotels, book a hotel, and rece
 
 - **View Hotels**: Users can view a list of available hotels.
 - **Book Hotels**: Users can book a hotel.
+- **Credit Card**: Users provide their credit card details to book hotel. 
 - **Reservation Confirmation**: Users receive a reservation confirmation ticket upon booking.
 
 ## Booking Process: 
@@ -16,6 +17,7 @@ Follow the prompts to enter the hotel ID and your name to book a hotel. If the h
 - `main.py`: Main script to manage hotel bookings.
 - `plan.txt`: Contains a brief plan and features of the app.
 - `hotels.csv`: Data file containing hotel information (not provided here).
+- `cards.csv`: Data file containing credit cards information. 
 
 ## Requirements
 
