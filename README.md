@@ -72,6 +72,13 @@ Prepare the Data: Ensure you have a hotels.csv file with the necessary hotel dat
 
 ### CreditCard
 
+**Attributes:**
+
+- `number`: Credit Card number
+
+**Methods**
+
+- `validate()`: Validates the credit card information.
 
 ## Sample Data
 
