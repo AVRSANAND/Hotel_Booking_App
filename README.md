@@ -70,6 +70,8 @@ Prepare the Data: Ensure you have a hotels.csv file with the necessary hotel dat
 
 - `generate()`: Generates a reservation confirmation ticket.
 
+### CreditCard
+
 
 ## Sample Data
 
@@ -80,4 +82,11 @@ id,name,available
 1,Hotel Sunshine,yes
 2,Hotel Moonlight,no
 3,Hotel Starlight,yes
+```
+Example entry in cards.csv:
+
+```
+number,expiration,cvv,holder
+"1234567890123456","12/26","123","AVRS ANAND"
+"5678901234567890","12/28","456","JOHN SMITH"
 ```
