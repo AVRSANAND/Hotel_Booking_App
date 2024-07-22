@@ -17,7 +17,8 @@ Follow the prompts to enter the hotel ID and your name to book a hotel. If the h
 - `main.py`: Main script to manage hotel bookings.
 - `plan.txt`: Contains a brief plan and features of the app.
 - `hotels.csv`: Data file containing hotel information (not provided here).
-- `cards.csv`: Data file containing credit cards information. 
+- `cards.csv`: Data file containing credit cards information.
+- `card_security`: Data file containing credit card password for authentication.
 
 ## Requirements
 
@@ -96,4 +97,11 @@ Example entry in cards.csv:
 number,expiration,cvv,holder
 "1234567890123456","12/26","123","AVRS ANAND"
 "5678901234567890","12/28","456","JOHN SMITH"
+```
+
+Example entry in card_security.csv:
+
+```
+number,password
+"1234567890123456","mypassword"
 ```
