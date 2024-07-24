@@ -18,7 +18,7 @@ Follow the prompts to enter the hotel ID and your name to book a hotel. If the h
 - `plan.txt`: Contains a brief plan and features of the app.
 - `hotels.csv`: Data file containing hotel information (not provided here).
 - `cards.csv`: Data file containing credit cards information.
-- `card_security`: Data file containing credit card password for authentication.
+- `card_security.csv`: Data file containing credit card password for authentication.
 
 ## Requirements
 
